@@ -1,0 +1,10 @@
+Après avoir glisser / déposer les icônes dans Unity, n'oubliez pas de changer leur "Texture Type" sur Sprite et d'appliquer
+les modifications.
+
+Ces icônes sont tirés de Google Image et sont pour certains reservés à un usage personel. Il est donc interdit de vendre
+un produit comprenant ces icônes.
+
+Ces derniers ont été modifiés par la TUTO UNITY FR : http://www.youtube.com/c/tutounityfr dans le but d'apprendre à des
+particuliers et professionels à créer un jeu vidéo RPG sur Unity 3D.
+
+Il n'est pas nécessaire d'ajouter ce fichier texte à votre projet.
